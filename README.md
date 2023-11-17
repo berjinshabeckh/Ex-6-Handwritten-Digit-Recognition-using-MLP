@@ -63,8 +63,8 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Program:
 ```
-NAME : Aldrin lijo J E
-REG-NO: 212222240007
+NAME :H.Berjin Shabeck
+REG-NO: 212222240018
 ```
 ## DEPENDENCIES:
 ```py
